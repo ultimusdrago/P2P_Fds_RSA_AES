@@ -1,0 +1,2 @@
+usernames=naga,sid
+passwords=321,321
